@@ -6,3 +6,6 @@ def farewell():
     
 def chat():
     print("How are you?")
+
+def testing():
+    print("test method")
