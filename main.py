@@ -9,3 +9,5 @@ def chat():
 
 def testing():
     print("test method")
+def call():
+    print("I called you!")
